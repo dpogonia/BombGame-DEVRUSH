@@ -1,22 +1,29 @@
 [Русский](README.md) | **English**
 
-# Bomb Game
+# BOMB GAME
 
-A speed game: name the answers before the bomb explodes. A team study project, team 3.
+App is a fun and interactive game where players have to answer questions within a certain time limit before the bomb explodes. Test your knowledge and quick thinking skills with this exciting game!
 
-## What it does
+## Screenshots
 
-The game starts by picking a category: movies, music, or travel. A timer runs, and the bomb on the screen is animated. Settings cover the time limit, music, and turning the animation off. A separate screen shows the rules.
+![telegram-cloud-photo-size-2-5384598571011132778-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/35dae755-2974-4b61-b2e1-6b3637677bf5)
 
-## Course
+![telegram-cloud-photo-size-2-5384598571011132781-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/fe94ebe4-79e8-4c37-95ef-c1305da917b1)
 
-A fork of [MAKSIM89PW/CHALLENGE_1_bomb_Team_3](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3). The game files were created by Vanopr in August 2023.
+![telegram-cloud-photo-size-2-5384598571011132782-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/a6cf03a9-369b-4852-9616-53018fb54e48)
 
-## Stack
+![telegram-cloud-photo-size-2-5384598571011132780-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/f440836c-a209-427c-a26c-3c8c2cf4e444)
 
-UIKit, Storyboard, Lottie, AVFoundation, Swift Package Manager.
+![telegram-cloud-photo-size-2-5384598571011132779-y](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3/assets/118197831/199ff004-b3cc-4157-889b-1c8c4eaf3b58)
 
-## Run
+## Features
+
+- Set the time limit for answering questions.
+- Choose from a variety of question categories.
+- Choose music from the suggested options.
+- Turn animation on and off.
+
+## Installation
 
 ```bash
 git clone https://github.com/dpogonia/BombGame-Team3.git
@@ -24,7 +31,20 @@ cd BombGame-Team3
 open "CHALLENGE №1 .xcodeproj"
 ```
 
-Run the **CHALLENGE №1** scheme on an iPhone simulator. Xcode downloads the Lottie package on the first open.
+Xcode downloads the Lottie package on the first open. Run the **CHALLENGE №1** scheme on an iPhone simulator.
+
+## Usage
+
+1. Launch the app and select a game mode.
+2. Choose a question category and start the game.
+
+## Requirements
+
+- iOS 15.0+
+- Xcode 13.0+
+- Swift 5.0+
+
+Fork of [MAKSIM89PW/CHALLENGE_1_bomb_Team_3](https://github.com/MAKSIM89PW/CHALLENGE_1_bomb_Team_3).
 
 ## Author
 
