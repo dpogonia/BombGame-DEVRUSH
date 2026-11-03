@@ -26,8 +26,8 @@ App is a fun and interactive game where players have to answer questions within 
 ## Installation
 
 ```bash
-git clone https://github.com/dpogonia/BombGame-Team3.git
-cd BombGame-Team3
+git clone https://github.com/dpogonia/BombGame-DEVRUSH.git
+cd BombGame-DEVRUSH
 open "CHALLENGE №1 .xcodeproj"
 ```
 
